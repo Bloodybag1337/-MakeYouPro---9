@@ -1,0 +1,15 @@
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/bin/Debug/net7.0/Домашнее решение MakeYouPro - 9
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/bin/Debug/net7.0/Домашнее решение MakeYouPro - 9.deps.json
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/bin/Debug/net7.0/Домашнее решение MakeYouPro - 9.runtimeconfig.json
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/bin/Debug/net7.0/Домашнее решение MakeYouPro - 9.dll
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/bin/Debug/net7.0/Домашнее решение MakeYouPro - 9.pdb
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/Домашнее решение MakeYouPro - 9.csproj.AssemblyReference.cache
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/Домашнее решение MakeYouPro - 9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/Домашнее решение MakeYouPro - 9.AssemblyInfoInputs.cache
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/Домашнее решение MakeYouPro - 9.AssemblyInfo.cs
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/Домашнее решение MakeYouPro - 9.csproj.CoreCompileInputs.cache
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/Домашнее решение MakeYouPro - 9.dll
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/refint/Домашнее решение MakeYouPro - 9.dll
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/Домашнее решение MakeYouPro - 9.pdb
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/Домашнее решение MakeYouPro - 9.genruntimeconfig.cache
+/Users/artem/Projects/Домашнее решение MakeYouPro - 9/Домашнее решение MakeYouPro - 9/obj/Debug/net7.0/ref/Домашнее решение MakeYouPro - 9.dll
